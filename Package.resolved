@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "coreengine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sobabear/CoreEngine.git",
+      "state" : {
+        "revision" : "7d7f215c99a957c20fd1465779ae56655152b58e",
+        "version" : "1.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}

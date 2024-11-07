@@ -18,8 +18,9 @@ public extension Pasteboard {
         self.string = text
 #endif
     }
-    
+#if os(iOS)
     func copyImage(_ image: UIImage) {
         self.image = image
     }
+#endif
 }
